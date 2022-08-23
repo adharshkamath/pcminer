@@ -1,0 +1,40 @@
+Erika Abraham
+Jade Alglave
+Pranav Ashar
+Per Bjesse
+Roderick Bloem
+Ivana Cerna
+Supratik Chakraborty
+Sylvain Conchon
+Leonardo de Moura
+Rayna Dimitrova
+Grigory Fedyukovich
+Arie Gurfnkel
+Liana Hadarean
+Ziyad Hanna
+Fei He
+Marijn Heule
+Warren A. Hunt, Jr.
+Alexander Ivrii
+Dejan Jovanović
+Alan Jovic
+Laura Kovacs
+Ton Chanh Le
+Rebekah Leslie-Hurd
+Kuldeep S. Meel
+Ruzica Piskac
+Elizabeth Polgreen
+Andrew Reynolds
+Christoph Scholl
+Natasha Sharygina
+Anna Slobodova
+Christoph Sticksel
+Murali Talupur
+Jean-Baptiste Tristan
+Yakir Vizel
+Thomas Wahl
+Georg Weissenbacher
+Michael Whalen
+Thomas Wies
+Valentin Wüstholz
+Lenore Zuck

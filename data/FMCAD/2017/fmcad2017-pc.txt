@@ -1,0 +1,35 @@
+Jade Alglave
+Christel Baier
+Roderick Bloem
+Hana Chockler
+Andreas Griesmayer
+Arie Gurfinkel
+Fei He
+Alan J. Hu
+Warren A. Hunt Jr.
+Alexander Ivrii
+Barbara Jobstmann
+Dejan Jovanovic
+Gerwin Klein
+Igor Konnov
+Rebekah Leslie-Hurd
+Ines Lynce
+Ken McMillan
+Charles Morisset
+Lee Pike
+Mitra Purandare
+Ajitha Rajan
+Ahmed Rezine
+Sean Safarpour
+Roopsha Samanta
+Martina Seidl
+Natasha Sharygina
+Anna Slobodova
+Ana Sokolova
+Daryl Stewart
+Murali Talupur
+Michael Tautschnig
+Thomas Wahl
+Chao Wang
+Georg Weissenbacher
+Florian Zuleger
