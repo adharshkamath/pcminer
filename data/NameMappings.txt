@@ -349,6 +349,7 @@ Kuldeep S. Meel->Kuldeep Meel
 Nikolaj Bjørner->Nikolaj Bjorner
 Madhusudan Parthasarathy->P. Madhusudan
 Parosh Aziz Abdulla->Parosh A. Abdulla
-Corina Păsăreanu->Corina S. Pasareanu
-Niklas Sörensson->Niklas Sorensson
-Dejan Jovanović->Dejan Jovanovic
+Corina P&#259;s&#259;reanu->Corina S. Pasareanu
+Niklas S&ouml;rensson->Niklas Sorensson
+Dejan Jovanovic&#769;->Dejan Jovanovic
+Pavol Cern&#253;->Pavol Cerny
