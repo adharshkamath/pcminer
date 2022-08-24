@@ -8,14 +8,14 @@ Roderick Bloem
 Gianpiero Cabodi
 Supratik Chakraborty
 Sylvain Conchon
-Vijay D’Silva
+Vijay D'Silva
 Rayna Dimitrova
 Malay Ganai
 Alberto Griggio
 Liana Hadarean
 Joe Hendrix
 Marijn Heule
-Warren Hunt
+Warren A. Hunt, Jr.
 Alexander Ivrii
 George Karpenkov
 Panagiotis Manolios

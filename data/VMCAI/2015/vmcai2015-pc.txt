@@ -4,7 +4,7 @@ Aws Albarghouthi
 Patricia Bouyer
 Alessandro Cimatti
 Agostino Cortesi
-Deepak D’Souza
+Deepak D'Souza
 Thomas Dillig
 Constantin Enea
 William Harris

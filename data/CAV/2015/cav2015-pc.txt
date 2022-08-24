@@ -24,7 +24,7 @@ Patrice Godefroid
 Aarti Gupta
 Arie Gurfinkel
 Gerard Holzmann
-Warren Hunt
+Warren A. Hunt, Jr.
 Ranjit Jhala
 Barbara Jobstmann
 Joost-Pieter Katoen

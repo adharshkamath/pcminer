@@ -351,5 +351,25 @@ Madhusudan Parthasarathy->P. Madhusudan
 Parosh Aziz Abdulla->Parosh A. Abdulla
 Corina P&#259;s&#259;reanu->Corina S. Pasareanu
 Niklas S&ouml;rensson->Niklas Sorensson
-Dejan Jovanovic&#769;->Dejan Jovanovic
+Dejan Jovanovi&#769;->Dejan Jovanovic
 Pavol Cern&#253;->Pavol Cerny
+Nikolaj S. Bj&oslash;rner->Nikolaj Bjorner
+Cezara Dr&#259;goi->Cezara Dragoi
+Laura Kov&aacute;cs->Laura Kovacs
+Antoine Min&eacute;->Antoine Mine
+J&eacute;r&ocirc;me Feret->Jerome Feret
+Kedar Namjoshi->Kedar S. Namjoshi
+Jean-Fran&ccedil;ois Raskin->Jean-Francois Raskin
+Edmund Clarke->Edmund M. Clarke
+Cas Cremers->Cas J. F. Cremers
+Jennifer Davis->Jennifer A. Davis
+Jyotirmoy Deshmukh->Jyotirmoy V. Deshmukh
+Thomas Henzinger->Thomas A. Henzinger
+William Hung->William N. N. Hung
+Warren Hunt->Warren A. Hunt
+Jie-Hong Roland Jiang->Jie-Hong R. Jiang
+Joel Ouaknine->Jo&euml;l Ouaknine
+Doron Peled->Doron A. Peled
+Markus Rabe->Markus N. Rabe
+Clark Barrett->Clark W. Barrett
+Jesse Bingham->Jesse D. Bingham

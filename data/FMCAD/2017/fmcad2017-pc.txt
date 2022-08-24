@@ -6,7 +6,7 @@ Andreas Griesmayer
 Arie Gurfinkel
 Fei He
 Alan J. Hu
-Warren A. Hunt Jr.
+Warren A. Hunt, Jr.
 Alexander Ivrii
 Barbara Jobstmann
 Dejan Jovanovic

@@ -12,7 +12,7 @@ Arie Gurfinkel
 Ziyad Hanna
 Fei He
 Keijo Heljanko
-Warren Hunt
+Warren A. Hunt, Jr.
 Himanshu Jain
 Gerwin Klein
 Daniel Kroening
@@ -20,7 +20,7 @@ Shuvendu Lahiri
 Rebekah Leslie-Hurd
 Panagiotis Manolios
 Kenneth McMillan
-John O’Leary
+John O'Leary
 Lee Pike
 Ruzica Piskac
 Ahmed Rezine

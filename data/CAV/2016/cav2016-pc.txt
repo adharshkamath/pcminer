@@ -6,7 +6,7 @@ Pavol Cerny
 Adam Chlipala
 Swarat Chaudhuri
 Alessandro Cimatti
-Loris D’Antoni
+Loris D'Antoni
 Constantin Enea
 Javier Esparza
 Kousha Etessami

@@ -4,7 +4,7 @@ Domagoj Babic
 Josh Berdine
 Ahmed Bouajjani
 Patrick Cousot
-Cezara Dragoi
+Cezara Drăgoi
 Constantin Enea
 Javier Esparza
 Jerome Feret

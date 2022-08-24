@@ -13,12 +13,12 @@ Swarat Chaudhuri
 Wei-Ngan Chin
 Hana Chockler
 Alessandro Cimatti
-Loris D’Antoni
-Vijay D’Silva
+Loris D'Antoni
+Vijay D'Silva
 Cristina David
 Jyotirmoy Deshmukh
 Isil Dillig
-Cezara Dragoi
+Cezara Drăgoi
 Kerstin Eder
 Michael Emmi
 Georgios Fainekos

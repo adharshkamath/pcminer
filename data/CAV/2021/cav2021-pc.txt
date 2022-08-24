@@ -12,7 +12,7 @@ Borzoo Bonakdarpour
 Ahmed Bouajjani
 Tevfik Bultan
 Sagar Chaki
-Bor Yuh Evan Chang
+Bor-Yuh Evan Chang
 Hana Chockler
 Cristina David
 Jennifer Davis
@@ -29,12 +29,12 @@ Arie Gurfinkel
 Ichiro Hasuo
 Marieke Huisman
 David N. Jansen
-Jean Baptiste Jeannin
+Jean-Baptiste Jeannin
 Ranjit Jhala
 Rajeev Joshi
 Temesghen Kahsai
 Benjamin Lucien Kaminski
-Joost Pieter Katoen
+Joost-Pieter Katoen
 Guy Katz
 Laura Kovacs
 Orna Kupferman
