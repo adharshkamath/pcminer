@@ -1,0 +1,33 @@
+Aws Albarghouthi
+Josh Berdine
+Dirk Beyer
+Nikolaj Bjørner
+Roderick Bloem
+Ahmed Bouajjani
+Swarat Chaudhuri
+Yu-Fang Chen
+Hana Chockler
+Rayna Dimitrova
+Dana Drachsler-Cohen
+Cezara Drăgoi
+Grigory Fedyukovich
+Jean-Christophe Filliatre
+Orna Grumberg
+Arie Gurfinkel
+Fritz Henglein
+Guy Katz
+Rupak Majumdar
+Antoine Miné
+Jorge A. Navas
+Oded Padon
+Corina S. Pasareanu
+Azalea Raad
+Xavier Rival
+Ilya Sergey
+Sharon Shoham
+Alexander J. Summers
+Niki Vazou
+Michael Whalen
+James R. Wilcox
+Yakir Vizel
+Lenore Zuck

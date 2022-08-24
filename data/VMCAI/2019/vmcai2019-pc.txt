@@ -1,0 +1,29 @@
+Miltiadis Allamanis
+Timos Antonopoulos
+Domagoj Babic
+Josh Berdine
+Ahmed Bouajjani
+Patrick Cousot
+Cezara Dragoi
+Constantin Enea
+Javier Esparza
+Jerome Feret
+Khalil Ghorbal
+Roberto Giacobazzi
+Alberto Griggio
+Jan Kretinsky
+Ori Lahav
+Anthony Widjaja Lin
+Ruben Martins
+Kedar Namjoshi
+K. Narayan Kumar
+Dejan Nickovic
+Jens Palsberg
+Ruzica Piskac
+Sylvie Putot
+Daniel Schwartz-Narbonne
+Martina Seidl
+Sharon Shoham
+Caterina Urban
+Lenore Zuck
+Damien Zufferey

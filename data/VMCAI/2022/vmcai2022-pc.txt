@@ -1,0 +1,36 @@
+Aws Albarghouthi
+Christel Baier
+Dirk Beyer
+Ahmed Bouajjani
+Yu-Fang Chen
+Patrick Cousot
+Leonardo de Moura
+Rayna Dimitrova
+Dino Distefano
+Jean-Christophe Filliatre
+Orna Grumberg
+Liana Hadarean
+William Harris
+Laura Kovacs
+Jan Kretinsky
+Siddharth Krishna
+Anna Lukina
+Roland Meyer
+Markus Müller-Olm
+Jorge A. Navas
+Oded Padon
+Jens Palsberg
+Corina Pasareanu
+Andreas Podelski
+Pavithra Prabhakar
+Xavier Rival
+Cesar Sanchez
+Sriram Sankaranarayanan
+Sven Schewe
+Martina Seidl
+Mihaela Sighireanu
+Gagandeep Singh
+Serdar Tasiran
+Cesare Tinelli
+Laura Titolo
+Lenore Zuck
