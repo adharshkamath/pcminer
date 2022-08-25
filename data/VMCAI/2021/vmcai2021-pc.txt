@@ -1,7 +1,7 @@
 Aws Albarghouthi
 Josh Berdine
 Dirk Beyer
-Nikolaj Bjørner
+Nikolaj Bj&cacute;rner
 Roderick Bloem
 Ahmed Bouajjani
 Swarat Chaudhuri
@@ -9,7 +9,7 @@ Yu-Fang Chen
 Hana Chockler
 Rayna Dimitrova
 Dana Drachsler-Cohen
-Cezara Drăgoi
+Cezara Dr&abreve;goi
 Grigory Fedyukovich
 Jean-Christophe Filliatre
 Orna Grumberg
@@ -17,7 +17,7 @@ Arie Gurfinkel
 Fritz Henglein
 Guy Katz
 Rupak Majumdar
-Antoine Miné
+Antoine Min&eacute;
 Jorge A. Navas
 Oded Padon
 Corina S. Pasareanu

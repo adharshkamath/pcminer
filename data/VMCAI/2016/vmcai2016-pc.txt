@@ -9,11 +9,11 @@ Barbara Jobstmann
 Rustan Leino
 Francesco Logozzo
 Madhavan Mukund
-Peter Müller
+Peter M&uuml;ller
 David Parker
 Andreas Podelski
 Nadia Polikarpova
-Philipp Rümmer
+Philipp R&uuml;mmer
 Roopsha Samanta
 Martina Seidl
 Sanjit A. Seshia

@@ -16,7 +16,7 @@ Jan Kretinsky
 Siddharth Krishna
 Anna Lukina
 Roland Meyer
-Markus Müller-Olm
+Markus M&uuml;ller-Olm
 Jorge A. Navas
 Oded Padon
 Jens Palsberg

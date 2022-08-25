@@ -12,7 +12,7 @@ Andrei Popescu
 Andrey Rybalchenko
 Anna Lukina
 Anna Slobodova
-Antoine Miné
+Antoine Min&eacute;
 Armin Biere
 Azalea Raad
 Bor-Yuh Evan Chang
@@ -22,7 +22,7 @@ Dana Drachsler Cohen
 Daniel Kroening
 David Jansen
 Deepak D'Souza
-Dejan Jovanovi
+Dejan Jovanovi&cacute;
 Derek Dreyer
 Elizabeth Polgreen
 Elvira Albert
@@ -48,14 +48,14 @@ Kuldeep Meel
 Laura Titolo
 Liana Hadarean
 Marieke Huisman
-Marijana Lazić
+Marijana Lazi&cacute;
 Marijn J. H. Heule
 Markus Rabe
 Martina Seidl
 Mingsheng Ying
-Miriam García
+Miriam Garc&iacute;a
 Natasha Sharygina
-Nikolaj Bjørner
+Nikolaj Bj&cacute;rner
 Nir Piterman
 Oded Padon
 Parasara Sridhar Duggirala
@@ -69,7 +69,7 @@ Roderick Bloem
 Ruben Martins
 Rupak Majumdar
 Ruzica Piskac
-Sébastien Bardin
+S&eacute;bastien Bardin
 Shuvendu Lahiri
 Sorav Bansal
 Subodh Sharma

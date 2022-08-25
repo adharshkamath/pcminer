@@ -15,7 +15,7 @@ Matthias Heizmann
 Holger Hermanns
 Falk Howar
 Marieke Huisman
-Laura Kovács
+Laura Kov&aacute;cs
 Jan Kretinsky
 Kim G. Larsen
 Salvatore La Torre
@@ -34,7 +34,7 @@ Stephen F. Siegel
 Bernhard Steffen
 Stavros Tripakis
 Frits Vaandrager
-Tomáš Vojnar
+Tom&aacute;&scaron; Vojnar
 Heike Wehrheim
 Thomas Wies
 Damien Zufferey

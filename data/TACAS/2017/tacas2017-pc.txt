@@ -7,9 +7,9 @@ Swarat Chaudhuri
 Alessandro Cimatti
 Rance Cleaveland
 Byron Cook
-Cezara Drăgoi
+Cezara Dr&abreve;goi
 Cindy Eisner
-Martin Fränzle
+Martin Fr&auml;nzle
 Sicun Gao
 Susanne Graf
 Orna Grumberg
@@ -17,7 +17,7 @@ Klaus Havelund
 Holger Hermanns
 Falk Howar
 Thomas Jensen
-Jan Křetínský
+Jan K&rcaron;et&iacute;nsk&yacute;
 Kim Guldstrand Larsen
 Salvatore La Torre
 P. Madhusudan

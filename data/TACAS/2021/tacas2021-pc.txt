@@ -12,16 +12,16 @@ Susanne Graf
 Orna Grumberg
 Klaus Havelund
 Holger Hermanns
-Peter Höfner
+Peter H&ouml;fner
 Hossein Hojjat
 Falk Howar
 David N. Jansen
-Marcin Jurdziński
+Marcin Jurdzi&nacute;ski
 Joost-Pieter Katoen
 Jeroen Keiren
 Sophia Knight
-Laura Kovács
-Jan Kretińsky
+Laura Kov&aacute;cs
+Jan Kreti&nacute;sky
 Alfons Laarman
 Xinxin Liu
 Mieke Massink
@@ -30,7 +30,7 @@ Jun Pang
 David Parker
 Jaco van de Pol
 Natasha Sharygina
-Jan Strejček
+Jan Strej&ccaron;ek
 Antti Valmari
-Björn Victor
+Bj&ouml;rn Victor
 Sarah Winkler

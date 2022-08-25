@@ -2,7 +2,7 @@ Jade Alglave
 June Andronick
 Armin Biere
 Per Bjesse
-Nikolaj Bjørner
+Nikolaj Bj&cacute;rner
 Roderick Bloem
 Gianpiero Cabodi
 Supratik Chakraborty
@@ -15,7 +15,7 @@ Fei He
 Joe Hendrix
 Warren A. Hunt, Jr.
 Alexander Ivrii
-Dejan Jovanović
+Dejan Jovanovi&cacute;
 Temesghen Kahsai
 George Karpenkov
 Tim King
@@ -32,7 +32,7 @@ Anna Slobodova
 Mathias Soeken
 Daryl Stewart
 Christoph Sticksel
-Niklas Sörensson
+Niklas S&ouml;rensson
 Murali Talupur
 Jaco van de Pol
 Tom van Dijk

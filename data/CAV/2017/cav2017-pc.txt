@@ -20,10 +20,10 @@ Aarti Gupta
 Gerard Holzmann
 Marieke Huisman
 Radu Iosif
-Franjo Ivančić
+Franjo Ivan&ccaron;i&cacute;
 Stefan Kiefer
 Zachary Kincaid
-Barbara König
+Barbara K&ouml;nig
 Daniel Kroening
 Rustan Leino
 Kenneth McMillan

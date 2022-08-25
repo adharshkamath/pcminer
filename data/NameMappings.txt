@@ -347,7 +347,7 @@ Steve Blackburn->Stephen M. Blackburn
 Jurgen Vinju->Jurgen J. Vinju
 Kuldeep S. Meel->Kuldeep Meel
 Nikolaj Bjørner->Nikolaj Bjorner
-Madhusudan Parthasarathy->P. Madhusudan
+Madhusudan Parthasarathy->Parthasarathy Madhusudan
 Parosh Aziz Abdulla->Parosh A. Abdulla
 Corina P&#259;s&#259;reanu->Corina S. Pasareanu
 Niklas S&ouml;rensson->Niklas Sorensson
@@ -373,3 +373,7 @@ Doron Peled->Doron A. Peled
 Markus Rabe->Markus N. Rabe
 Clark Barrett->Clark W. Barrett
 Jesse Bingham->Jesse D. Bingham
+Alan Hu->Alan J. Hu
+Antti Eero Johannes Hyv&auml;rinen->Antti E. J. Hyv&auml;rinen
+Sava Krstic->Sava Krsti&#263;
+Dejan Jovanovi&cacute;->Dejan Jovanovic

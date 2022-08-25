@@ -17,7 +17,7 @@ Hana Chockler
 Eva Darulova
 Cristina David
 Dana Drachsler Cohen
-Cezara Drăgoi
+Cezara Dr&abreve;goi
 Constantin Enea
 Azadeh Farzan
 Grigory Fedyukovich
@@ -35,7 +35,7 @@ Shachar Itzhaky
 Franjo Ivancic
 Ranjit Jhala
 Rajeev Joshi
-Dejan Jovanović
+Dejan Jovanovi&cacute;
 Laura Kovacs
 Burcu Kulahcioglu Ozkan
 Marta Kwiatkowska
@@ -46,7 +46,7 @@ Joao Marques-Silva
 Ruben Martins
 Ken McMillan
 Vijay Murali
-Peter Müller
+Peter M&uuml;ller
 Mayur Naik
 Hakjoo Oh
 Oded Padon

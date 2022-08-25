@@ -20,7 +20,7 @@ Eva Darulova
 Cristina David
 Ankush Desai
 Jyotirmoy Deshmukh
-Cezara Drăgoi
+Cezara Dr&abreve;goi
 Kerstin Eder
 Michael Emmi
 Constantin Enea
@@ -37,7 +37,7 @@ Alan J. Hu
 Laura Humphrey
 Franjo Ivancic
 Joxan Jaffar
-Dejan Jovanović
+Dejan Jovanovi&cacute;
 Zachary Kincaid
 Laura Kovacs
 Daniel Kroening

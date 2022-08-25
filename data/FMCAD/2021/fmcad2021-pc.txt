@@ -9,14 +9,14 @@ Sylvain Conchon
 Leonardo de Moura
 Rayna Dimitrova
 Grigory Fedyukovich
-Arie Gurfnkel
+Arie Gurfinkel
 Liana Hadarean
 Ziyad Hanna
 Fei He
 Marijn Heule
 Warren A. Hunt, Jr.
 Alexander Ivrii
-Dejan Jovanović
+Dejan Jovanovi&cacute;
 Alan Jovic
 Laura Kovacs
 Ton Chanh Le
@@ -36,5 +36,5 @@ Thomas Wahl
 Georg Weissenbacher
 Michael Whalen
 Thomas Wies
-Valentin Wüstholz
+Valentin W&uuml;stholz
 Lenore Zuck
