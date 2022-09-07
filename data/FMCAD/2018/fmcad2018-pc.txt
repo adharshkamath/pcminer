@@ -2,7 +2,7 @@ Jade Alglave
 June Andronick
 Armin Biere
 Per Bjesse
-Nikolaj Bj&cacute;rner
+Nikolaj Bj&oslash;rner
 Roderick Bloem
 Gianpiero Cabodi
 Supratik Chakraborty

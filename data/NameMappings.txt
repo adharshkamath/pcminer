@@ -346,15 +346,15 @@ Gail Murphy->Gail C. Murphy
 Steve Blackburn->Stephen M. Blackburn
 Jurgen Vinju->Jurgen J. Vinju
 Kuldeep S. Meel->Kuldeep Meel
-Nikolaj Bjørner->Nikolaj Bjorner
+Nikolaj Bj&oslash;rner->Nikolaj Bjorner
 Madhusudan Parthasarathy->Parthasarathy Madhusudan
 Parosh Aziz Abdulla->Parosh A. Abdulla
-Corina P&#259;s&#259;reanu->Corina S. Pasareanu
+Corina P&abreve;s&abreve;reanu->Corina S. Pasareanu
 Niklas S&ouml;rensson->Niklas Sorensson
 Dejan Jovanovi&#769;->Dejan Jovanovic
 Pavol Cern&#253;->Pavol Cerny
 Nikolaj S. Bj&oslash;rner->Nikolaj Bjorner
-Cezara Dr&#259;goi->Cezara Dragoi
+Cezara Dr&abreve;goi->Cezara Dragoi
 Laura Kov&aacute;cs->Laura Kovacs
 Antoine Min&eacute;->Antoine Mine
 J&eacute;r&ocirc;me Feret->Jerome Feret
@@ -377,3 +377,4 @@ Alan Hu->Alan J. Hu
 Antti Eero Johannes Hyv&auml;rinen->Antti E. J. Hyv&auml;rinen
 Sava Krstic->Sava Krsti&#263;
 Dejan Jovanovi&cacute;->Dejan Jovanovic
+Jan Kretinsky->Jan K&rcaron;et&iacute;nsk&yacute;
